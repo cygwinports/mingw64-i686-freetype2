@@ -2,7 +2,7 @@ CROSS_HOST="i686-w64-mingw32"
 inherit cross
 
 NAME="mingw64-i686-freetype2"
-VERSION=2.5.4
+VERSION=2.5.5
 RELEASE=1
 CATEGORY="Devel"
 SUMMARY="TrueType font engine for Win32 toolchain"
